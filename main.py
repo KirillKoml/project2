@@ -1,3 +1,5 @@
-from funcs import n
+from funcs import n, w
 
 print(n)
+
+print(w)
