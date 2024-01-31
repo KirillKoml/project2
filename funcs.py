@@ -1,4 +1,6 @@
+def addition():
+    print(2+2)
 
-print(2+2)
 
-print(4-2)
+def subtraction():
+    print(4-2)
